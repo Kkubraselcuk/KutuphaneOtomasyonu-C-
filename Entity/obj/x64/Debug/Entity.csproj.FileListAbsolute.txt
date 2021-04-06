@@ -1,0 +1,5 @@
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\Entity\bin\x64\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\Entity\bin\x64\Debug\Entity.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\Entity\obj\x64\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\Entity\obj\x64\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\Entity\obj\x64\Debug\Entity.pdb

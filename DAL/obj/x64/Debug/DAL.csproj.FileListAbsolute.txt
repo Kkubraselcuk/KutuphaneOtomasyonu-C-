@@ -1,0 +1,16 @@
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\bin\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\DAL\obj\x64\Debug\DAL.pdb

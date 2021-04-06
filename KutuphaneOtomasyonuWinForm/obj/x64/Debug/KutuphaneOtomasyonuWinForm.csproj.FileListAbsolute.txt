@@ -1,0 +1,50 @@
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\KutuphaneOtomasyonuWinForm.exe.config
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\KutuphaneOtomasyonuWinForm.exe
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\KutuphaneOtomasyonuWinForm.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\BL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\Entity.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Form1.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Ogrenci_İslemleri_Sfs.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Properties.Resources.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csproj.GenerateResource.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csproj.CopyComplete
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.exe
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Kitap_İslemleri_Sfs.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Alim_ve_İade_Gosterim_Sfs.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Ogrenci_Alim_ve_İade_Gosterim_Sfs.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.İade_ve_Alim_Sfs.resources
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Kitap_Grafik_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\KutuphaneOtomasyonuWinForm.exe.config
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\KutuphaneOtomasyonuWinForm.exe
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\KutuphaneOtomasyonuWinForm.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\BL.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\bin\x64\Debug\Entity.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Alim_ve_İade_Gosterim_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Form1.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Kitap_Grafik_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Kitap_İslemleri_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Ogrenci_Alim_ve_İade_Gosterim_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Ogrenci_İslemleri_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.Properties.Resources.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.İade_ve_Alim_Sfs.resources
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csproj.GenerateResource.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.csproj.CopyComplete
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.exe
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\KutuphaneOtomasyonuWinForm\obj\x64\Debug\KutuphaneOtomasyonuWinForm.pdb

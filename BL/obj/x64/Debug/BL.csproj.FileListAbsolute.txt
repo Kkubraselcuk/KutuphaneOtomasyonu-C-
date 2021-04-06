@@ -1,0 +1,26 @@
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\BL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\Entity.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.csproj.CopyComplete
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\BL.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\bin\x64\Debug\Entity.pdb
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.csproj.CopyComplete
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\Görsel Final\KutuphaneOtomasyonuWinForm\BL\obj\x64\Debug\BL.pdb

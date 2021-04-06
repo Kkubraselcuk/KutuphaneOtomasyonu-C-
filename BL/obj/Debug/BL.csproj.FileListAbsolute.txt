@@ -1,0 +1,13 @@
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\Database.mdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\BL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\DAL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\Entity.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\DAL.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\DAL.dll.config
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\bin\Debug\Entity.pdb
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\Debug\BL.dll
+C:\Users\kübra selçuk\Desktop\KutuphaneOtomasyonuWinForm\BL\obj\Debug\BL.pdb
